@@ -2,7 +2,7 @@
 
 Meu nome é Gustavo Henschel
 
-- Atualmente Estudo na Alura
+- Atualmente Estudo na [Alura](https://www.alura.com.br/)
 - Estudo a linguagem JavaScript
 - Utilizo este Espaço para a organização de meus projetos desenvolvidos
 
