@@ -1,3 +1,11 @@
 ## Ola, Boas vindas ao meu perfil 🦜
 
-**GustavoHH88/GustavoHH88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Gustavo Henschel
+
+- Atualmente Estudo na Alura
+- Estudo a linguagem JavaScript
+- Utilizo este Espaço para a organização de meus projetos desenvolvidos
+
+### Para entrar em contato comigo
+
+00001108592090sp@al.educacao.sp.gov.br
