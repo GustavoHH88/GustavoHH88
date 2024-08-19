@@ -1,4 +1,4 @@
-## Ola, Boas vindas ao meu perfil 🦜
+## Ola, Boas vindas ao meu perfil 🙌
 
 Meu nome é Gustavo Henschel
 
